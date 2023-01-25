@@ -14,19 +14,22 @@
     background-color: white;
     width: 200px;
     box-shadow: inset;
-   height: 270px;
+   height: 280px;
    padding-top: 10px;
-   margin-bottom: 20px;
+   margin-bottom: 10px;
 }
 h4 {
-    margin-bottom: 10px;
-    margin-top: 10px;
+    margin-bottom: 8px;
+    margin-top: 8px;
 }
 p {
-    margin-bottom: 10px;
+    margin-bottom: 8px;
 }
 button {
     margin-bottom: 10px;
+    width: 50%;
+    display: flex;
+    text-align: center;
 }
 .myButton {
 	box-shadow:inset 0px 1px 0px 0px #a4e271;
